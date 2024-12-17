@@ -16,7 +16,7 @@
        "file name"% - won't show anything except file name again
 
 # 6 - What is a quick way to create a new file?
-      mkdir
+      touch
 
 # 7 - Run 'git --version' in your terminal. What is the output?
       git version 2.39.5 (Apple Git-154)
@@ -30,4 +30,4 @@ save the changes you made in your files
 # 10 - What is the command to push your committed changes to your repo on GitHub?
        git push origin main
  
- and pwd displays full pathway of the file/directory you're in :)
+ and pwd displays full pathway of the file/directory you're in :
